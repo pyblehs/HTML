@@ -1,0 +1,51 @@
+** start of undefined **
+
+<!DOCTYPE html> <html lang="en"></html> <meta charset="utf-8"> <link rel="stylesheet" href="styles.css"></link> <title></title>
+<body>
+<head>
+  <h1 id="title">Survey Form</h1>
+  <p id="description">This is a survey form.</p>
+</head>
+<form id="survey-form">
+<fieldset>
+  <label id="name-label">Name <input placeholder="name" required type="text" id="name"/></label>
+  <label id="email-label"><br/>Email <input placeholder="email" required type="email" id="email" /></label>
+  <label id="number-label"><br/>Number <input placeholder="number" min="13" max="120" type="number" id="number" /></label>
+</fieldset>
+<fieldset>
+  <legend>Choose one</legend>
+  <label><select id="dropdown"><option>select one</option><option>Option 1</option><option>Option 2</option></select></label>
+</fieldset>
+<fieldset>
+  <legend>Choose an option</legend>
+  <label><input value="one" name="one" type="radio" />One</label>
+  <label><input value="one" name="one" type="radio" />Two</label> 
+</fieldset>
+<fieldset>
+  <legend>Please check one (check all that apply)</legend>
+  <label><input value="option-1" type="checkbox"/>Option 1</label>
+  <label><input value="option-2" type="checkbox"/>Option 2</label>
+  <label><input value="option-3" type="checkbox"/>Option 3</label>
+</fieldset>
+<fieldset>
+  <legend>Share a bit about yourself</legend>
+  <label><textarea placeholder="I like coding..."></textarea></label>
+</fieldset>
+<button class="submit" id="submit">Submit</button>
+</form>
+</body> 
+
+** end of undefined **
+
+** start of undefined **
+
+body {background-color: #5b5b5b}
+h1 {text-align: center; color: white; font-family: garamond;}
+fieldset {background-color: #5b5b5b; padding: 10; margin: 0; font-family: trebuchet ms; color: white;}
+p {text-align: center; color: white; font-family: trebuchet ms;}
+label {font-family: trebuchet ms;}
+button {padding: 4; position:relative;
+top: 5px; left: 155px}
+
+** end of undefined **
+
