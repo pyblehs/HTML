@@ -1,0 +1,31 @@
+** start of undefined **
+
+<DOCTYPE! html>
+<html lang="eng"></html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1.8">
+<link type="stylesheet" href="styles.css"></link>
+<main id="main">
+<title>Nelson Mandela</title>
+<h1 id="title">Nelson Mandela</h1>
+<div id="img-div">
+  <img id="image" src="https://cdn.britannica.com/67/75567-050-4EBBE84D/Nelson-Mandela.jpg"></img>
+  <figcaption id="img-caption">Photo of Nelson Mandela speaking</figcaption>
+</div>
+  <h2 id="tribute-info">Nelson Rolihlahla Mandela; born Rolihlahla Mandela; 18 July 1918 – 5 December 2013) was a South African anti-apartheid activist, politician, and statesman who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.</h2>
+  <h3>Find out more about <a id="tribute-link" href="https://en.wikipedia.org/wiki/Nelson_Mandela" target="_blank">Nelson Mandela</a></h3>
+</main>
+
+** end of undefined **
+
+** start of undefined **
+
+img {width: 300px;
+  height: auto; display: block; max-width: 100%; align-content: center}
+h1 {text-align: center; font-family: sans-serif; padding: 10}
+figcaption {text-align: center}
+h2 {text-align: center; font-family: monospace; font-size: 15px}
+h3 {text-align: center}
+
+** end of undefined **
+
