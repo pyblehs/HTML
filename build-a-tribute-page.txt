@@ -1,10 +1,8 @@
-** start of undefined **
-
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html lang="eng"></html>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial scale=1.8">
-<link type="stylesheet" href="styles.css"></link>
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<link rel="stylesheet" href="styles.css"></link>
 <main id="main">
 <title>Nelson Mandela</title>
 <h1 id="title">Nelson Mandela</h1>
