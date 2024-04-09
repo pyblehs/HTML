@@ -1,6 +1,10 @@
 ** start of undefined **
 
-<!DOCTYPE html> <html lang="en"></html> <meta charset="utf-8"> <link rel="stylesheet" href="styles.css"></link> <title></title>
+<!DOCTYPE html> 
+<html lang="en"></html> 
+<meta charset="utf-8"> 
+<link rel="stylesheet" href="styles.css"></link> 
+<title>Survey Form</title>
 <body>
 <head>
   <h1 id="title">Survey Form</h1>
